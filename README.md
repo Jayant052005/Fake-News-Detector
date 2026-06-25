@@ -64,8 +64,8 @@ The application compares user-entered news with news stored in a CSV dataset and
        - API integration for live news checking
        - NLP-based text similarity matching
 
-👨‍💻 Author
+## 👨‍💻 Author
        - Jayant Kumar Sharma
 
-📜 License
+## 📜 License
        - This project is developed for educational and learning purposes.
