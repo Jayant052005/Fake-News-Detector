@@ -38,13 +38,13 @@ The application compares user-entered news with news stored in a CSV dataset and
  Clone the repository ```bash git clone https://github.com/Jayant052005/Fake-News-Detector.git 
 
        - Move to project directory
-               - cd Fake-News-Detector 
+                cd Fake-News-Detector 
        - Install dependencies
-               - pip install flask pandas
+                pip install flask pandas
        - Run the application
-               - python app.py 
+                python app.py 
        - Open browser and visit
-               - http://127.0.0.1:5000 
+                http://127.0.0.1:5000 
 
 ## 📖 How It Works
        - User enters a news headline.
